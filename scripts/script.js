@@ -339,7 +339,7 @@ serviceRequestForm.addEventListener('submit', function(e) {
     const message = `Hello, I'm interested in your ${service} service.%0A%0AName: ${name}%0AMobile: ${mobile}%0A%0APlease provide more information.`;
     
     // Your WhatsApp number (replace with your actual number)
-    const whatsappNumber = '+919876543210'; // Replace this with your actual WhatsApp number
+    const whatsappNumber = '+919453890688'; // Replace this with your actual WhatsApp number
     
     // Create WhatsApp URL
     const whatsappURL = `https://wa.me/${whatsappNumber}?text=${message}`;
